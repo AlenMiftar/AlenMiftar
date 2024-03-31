@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning front-end web development at Sundsgårdens Folkhögskola
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me muslimm_12@hotmail.com
+- 📫 How to reach me Alen.Mifftar@stud.sundsgarden.se
 
 <!---
 AlenMiftar/AlenMiftar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
